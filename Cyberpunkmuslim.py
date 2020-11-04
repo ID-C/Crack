@@ -96,9 +96,9 @@ print  """
 
 \033[1;91mYoutube\033[1;91m: \033[1;93mID Code.
 
-\033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/pokhtoon007
+\033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/ID Code
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
-jalan("\33[31;1m Please Don't Clone Pakistani Facebook Idz   ")
+jalan("\33[31;1m Please Don't Clone Cirebon Facebook ID Code   ")
 jalan('\33[31;1m Username IDCode Password 2020   ')
 jalan('\33[31;1m██ 39%  ')
 jalan("\33[31;1m ███ 49%  ")
